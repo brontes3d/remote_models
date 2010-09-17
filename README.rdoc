@@ -1,0 +1,6 @@
+web services that use amqp and memcache instead of HTTP
+
+
+Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+
+Authored by Jacob Burkhart.
